@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"TAG"
+	{
+		"en"			"<{green}Admin Kick Immunity{default}> "
+	}
+
+	"TRY_KICK"
+	{
+		"#format"		"{1:N}"
+		"en"			"{olive}{1}{default} tried to kick you"
+	}
+}
